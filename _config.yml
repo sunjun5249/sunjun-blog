@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # ---------------------------------------------------------------
 # Jekyll & Global Configuration
 ## Docs: https://jekyllrb.com/docs/configuration/
@@ -736,3 +737,6 @@ images: assets/images
 
 # Theme version
 version: 5.1.1
+=======
+theme: jekyll-theme-cayman
+>>>>>>> 19aff0c501354d1506200f1e4b348d522725c47a
